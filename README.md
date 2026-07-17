@@ -1,4 +1,4 @@
-# DiSCo: Difficulty-Guided Self-Paced Coordinate Training for Time Series Anomaly Detection
+# DiSCo: Difficulty-Guided Sample Coordination for Reconstruction-Based Time Series Anomaly Detection
 
 This repository provides an implementation of **DiSCo**, a difficulty-guided coordinated training framework for unsupervised time series anomaly detection (TSAD).
 
